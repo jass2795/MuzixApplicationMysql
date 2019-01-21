@@ -14,8 +14,9 @@ public class FeedDataAppStartRunner implements ApplicationRunner {
 
     private Track feedTrackData = new Track();
 
-   /* @Value("${song.total}")
-    private int totalSongs;*/
+   @Value("${song.total}")
+    private int totalSongs;
+
     @Value("${song.1.id}")
     private int id1;
     @Value("${song.1.name}")

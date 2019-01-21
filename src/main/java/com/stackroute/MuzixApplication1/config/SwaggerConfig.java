@@ -43,7 +43,7 @@ public class SwaggerConfig
 
 
 
-                .contact(new Contact("jasleen", "https://github.com/jass2795", "jasleenkaur@gmail.com"))
+                .contact(new Contact("jasleen", "https://github.com/jass2795", "jasleen2795@gmail.com"))
 
 
 
